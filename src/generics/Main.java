@@ -24,7 +24,6 @@ public class Main {
         
         simpleClass.printArray(characters);
         simpleClass.printArray(numbers);
-        
 
 
     }
